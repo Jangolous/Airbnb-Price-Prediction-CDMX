@@ -5,6 +5,12 @@ This project predicts Airbnb listing prices in Mexico City using machine learnin
 I worked with real listing data, cleaned and prepared it, and built a model to understand which factors have the biggest impact on price. The final model (Random Forest) achieved an R² of ~0.65.
 
 
+## Open in Google Colab
+
+You can run the notebook directly in your browser:
+
+[Open Notebook in Colab](https://colab.research.google.com/drive/1dQFzxHo9ihVtKNMMnO34eo_QUHIZjMAt?usp=sharing)
+
 
 ## Dataset
 
